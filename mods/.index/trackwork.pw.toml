@@ -1,0 +1,16 @@
+filename = 'trackwork-1.20.1-1.0.2c.jar'
+name = 'Trackwork'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'a18c51390a6b7e3525cd0fa57a38822aa083341a3d25905824591dd543094e9749eb44c6f19847a7abfcac34d0e1c07eb8ed8522d8b7279d0d1729e5299fa481'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FXDpZRJG/versions/KmohqLeh/trackwork-1.20.1-1.0.2c.jar'
+
+[update.modrinth]
+mod-id = 'FXDpZRJG'
+version = 'KmohqLeh'

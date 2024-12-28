@@ -1,0 +1,60 @@
+term.clear()
+function main()
+while true do
+    print("ju forget minone kiosk")
+    print("1.make minone")
+    local pere= read()
+    if pere == "exit" then
+        return false
+    end
+        if pere == "1" then
+    while true do
+    print("what minone you make")
+    print("1.server lag")
+    print("2.other")
+    jong = read()
+    if jong == "1" or jong == "2" then
+        term.clear()
+        print("write your minone")
+        nayyong= {}
+        while true do
+            write(">")
+            context=read()
+            if context == "" then
+                print("exit?press enter again to exit")
+                if read() == "" then
+                    break
+                end
+            else
+                table.insert(nayyong,context)
+            end
+       end
+       print("write title for this minone")
+       local file = fs.open("disk/"..read().." "..tostring(os.date()),"w")
+       
+       file.writeLine(tostring(os.date()))
+       if jong == "1" then
+           file.writeLine("type: your server suck")
+       else
+           file.writeLine("type: other")
+       end
+       
+       for i=1,#nayyong do
+           file.writeLine(nayyong[i])
+    end
+    file.close()
+    error("minone submited! restart!")
+    end
+    end
+    end
+end
+end
+
+while true do
+se = pcall(main)
+term.clear()
+term.setCursorPos(1,1)
+if se == true then
+exit()
+end
+end

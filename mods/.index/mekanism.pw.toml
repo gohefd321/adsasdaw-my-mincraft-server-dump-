@@ -1,0 +1,16 @@
+filename = 'Mekanism-1.20.1-10.4.12.68.jar'
+name = 'Mekanism'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9d82edba5774e05b4ead02d2ba5097d29827c4408df576b7f4e1bd4dcdbca61b8bb4ba20726ba4b5e4fc68942601356bdec6ab469d8fb583a97f1355c9959d3a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Ce6I4WUE/versions/8gSCgGlf/Mekanism-1.20.1-10.4.12.68.jar'
+
+[update.modrinth]
+mod-id = 'Ce6I4WUE'
+version = '8gSCgGlf'

@@ -1,0 +1,483 @@
+{
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-12-22 12:26:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2024-12-25 08:24:43 +0000",
+      "minecraft:deep_ocean": "2024-12-25 08:10:08 +0000",
+      "minecraft:frozen_river": "2024-12-25 05:51:27 +0000",
+      "minecraft:beach": "2024-12-25 07:21:43 +0000",
+      "minecraft:river": "2024-12-25 06:01:59 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-25 08:11:03 +0000",
+      "minecraft:snowy_plains": "2024-12-22 12:26:46 +0000",
+      "minecraft:snowy_taiga": "2024-12-25 05:51:48 +0000",
+      "minecraft:cold_ocean": "2024-12-23 15:55:35 +0000",
+      "minecraft:forest": "2024-12-22 15:05:34 +0000",
+      "minecraft:deep_cold_ocean": "2024-12-25 08:07:21 +0000",
+      "minecraft:frozen_ocean": "2024-12-22 12:27:11 +0000",
+      "minecraft:deep_frozen_ocean": "2024-12-25 08:07:45 +0000",
+      "minecraft:ocean": "2024-12-25 08:10:33 +0000",
+      "minecraft:snowy_beach": "2024-12-22 12:30:13 +0000",
+      "minecraft:warm_ocean": "2024-12-25 08:11:28 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-12-25 08:10:50 +0000",
+      "minecraft:plains": "2024-12-22 13:53:42 +0000"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-22 12:27:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-22 12:27:49 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:wind_generator": {
+    "criteria": {
+      "wind_generator": "2024-12-22 12:34:53 +0000"
+    },
+    "done": true
+  },
+  "mekanism:alarm": {
+    "criteria": {
+      "industrial_alarm": "2024-12-22 12:41:49 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-12-22 12:49:45 +0000"
+    },
+    "done": true
+  },
+  "mekanismgenerators:heat_generator": {
+    "criteria": {
+      "heat_generator": "2024-12-22 14:13:56 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2024-12-22 14:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-22 14:24:58 +0000"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-12-23 15:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-23 15:33:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-23 15:33:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-24 13:46:01 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2024-12-24 13:54:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:ghast": "2024-12-24 15:15:42 +0000",
+      "minecraft:creeper": "2024-12-24 15:10:19 +0000",
+      "minecraft:slime": "2024-12-25 10:18:39 +0000",
+      "minecraft:witch": "2024-12-25 16:07:22 +0000",
+      "minecraft:wither_skeleton": "2024-12-24 14:22:42 +0000",
+      "quark:wraith": "2024-12-24 15:24:13 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:wither_skeleton": "2024-12-24 14:22:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2024-12-24 15:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2024-12-24 15:15:42 +0000"
+    },
+    "done": true
+  },
+  "quark:get_diamond_heart": {
+    "criteria": {
+      "get_diamond_heart": "2024-12-24 15:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-24 15:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-24 15:20:56 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-25 06:23:24 +0000",
+      "1": "2024-12-25 05:21:05 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-12-25 05:21:05 +0000"
+    },
+    "done": true
+  },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2024-12-25 05:33:51 +0000"
+    },
+    "done": true
+  },
+  "quark:pat_potato": {
+    "criteria": {
+      "pat_potato": "2024-12-25 05:36:39 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-12-25 06:09:44 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/exposure": {
+    "criteria": {
+      "expose_frame": "2024-12-25 06:22:43 +0000"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2024-12-25 06:22:56 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-12-25 06:23:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-25 06:26:08 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/moment_in_time": {
+    "criteria": {
+      "get_photograph": "2024-12-25 06:27:39 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2024-12-25 06:31:06 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/facade": {
+    "criteria": {
+      "facade": "2024-12-25 06:40:23 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2024-12-25 06:40:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2024-12-25 06:44:10 +0000"
+    },
+    "done": true
+  },
+  "mekanism:teleporter": {
+    "criteria": {
+      "teleporter": "2024-12-25 06:53:03 +0000",
+      "teleport": "2024-12-25 06:54:33 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2024-12-25 06:55:10 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_chemthrower": {
+    "criteria": {
+      "has_item": "2024-12-25 06:58:40 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_revolver": {
+    "criteria": {
+      "has_item": "2024-12-25 07:03:41 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_railgun": {
+    "criteria": {
+      "has_item": "2024-12-25 07:06:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2024-12-25 07:35:35 +0000"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2024-12-25 07:39:27 +0000"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2024-12-25 07:41:02 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_pickarang": {
+    "criteria": {
+      "throw_pickarang": "2024-12-25 08:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-25 09:41:49 +0000"
+    },
+    "done": true
+  },
+  "quark:throw_parrot_egg": {
+    "criteria": {
+      "throw_parrot_egg": "2024-12-25 10:12:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-12-25 10:20:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-12-25 10:20:12 +0000"
+    },
+    "done": true
+  },
+  "mekanism:configurator": {
+    "criteria": {
+      "configurator": "2024-12-25 11:35:51 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-12-25 12:04:49 +0000"
+    },
+    "done": true
+  },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_dissolution_chamber": "2024-12-25 12:13:42 +0000"
+    },
+    "done": false
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2024-12-25 12:14:04 +0000"
+    },
+    "done": true
+  },
+  "mekanism:network_reader": {
+    "criteria": {
+      "network_reader": "2024-12-25 12:36:32 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-25 13:04:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-25 13:39:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2024-12-25 13:39:44 +0000"
+    },
+    "done": false
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2024-12-25 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2024-12-25 13:40:45 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/kill_illager": {
+    "criteria": {
+      "revolver_kill": "2024-12-25 13:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2024-12-25 14:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-25 14:56:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-25 16:04:02 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/villager": {
+    "criteria": {
+      "meet_gunsmith": "2024-12-27 08:18:06 +0000"
+    },
+    "done": true
+  },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2024-12-27 08:22:58 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-12-27 08:31:53 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-12-27 09:11:10 +0000"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2024-12-27 09:11:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2024-12-27 09:29:21 +0000"
+    },
+    "done": false
+  },
+  "create:long_travel": {
+    "criteria": {
+      "0": "2024-12-27 09:33:25 +0000"
+    },
+    "done": true
+  },
+  "create:conductor": {
+    "criteria": {
+      "0": "2024-12-27 09:38:55 +0000"
+    },
+    "done": true
+  },
+  "exposure:adventure/piercing_gaze": {
+    "criteria": {
+      "use_interplanar_projector": "2024-12-27 10:18:21 +0000"
+    },
+    "done": true
+  },
+  "create:funnel": {
+    "criteria": {
+      "0": "2024-12-27 11:10:45 +0000"
+    },
+    "done": true
+  },
+  "create:linked_controller": {
+    "criteria": {
+      "0": "2024-12-27 13:20:28 +0000"
+    },
+    "done": true
+  },
+  "mekanism:laser": {
+    "criteria": {
+      "laser": "2024-12-27 15:06:45 +0000"
+    },
+    "done": true
+  },
+  "create:chocolate_bucket": {
+    "criteria": {
+      "0": "2024-12-27 15:14:28 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

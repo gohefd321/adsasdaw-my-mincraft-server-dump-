@@ -1,0 +1,136 @@
+{
+  "mekanism:root": {
+    "criteria": {
+      "automatic": "2024-12-22 12:31:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:beach": "2024-12-22 13:07:22 +0000",
+      "minecraft:river": "2024-12-25 11:41:24 +0000",
+      "minecraft:snowy_plains": "2024-12-22 12:31:33 +0000",
+      "minecraft:cold_ocean": "2024-12-22 13:07:18 +0000",
+      "minecraft:forest": "2024-12-22 13:07:10 +0000",
+      "minecraft:frozen_ocean": "2024-12-22 12:33:31 +0000",
+      "minecraft:snowy_beach": "2024-12-22 12:33:10 +0000",
+      "minecraft:plains": "2024-12-22 13:07:12 +0000"
+    },
+    "done": false
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-22 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-12-22 12:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-22 12:37:12 +0000"
+    },
+    "done": true
+  },
+  "mekanism:alarm": {
+    "criteria": {
+      "industrial_alarm": "2024-12-22 12:41:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-22 13:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2024-12-22 13:08:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2024-12-22 13:10:36 +0000"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2024-12-25 11:35:57 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_revolver": {
+    "criteria": {
+      "has_item": "2024-12-25 11:38:27 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2024-12-25 11:38:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2024-12-25 11:38:44 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/upgrade_revolver": {
+    "criteria": {
+      "code_trigger": "2024-12-25 11:38:49 +0000"
+    },
+    "done": true
+  },
+  "mekanism:waste_removal": {
+    "criteria": {
+      "radioactive_waste_barrel": "2024-12-25 11:41:53 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2024-12-25 11:48:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-25 11:49:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-25 11:49:50 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-25 11:49:50 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/craft_wolfpack": {
+    "criteria": {
+      "has_item": "2024-12-25 11:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-25 11:57:20 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

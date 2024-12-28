@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "forget_password",
+      "uniqueId": "b5d12909-5a6e-41d4-9d7f-c417f867e1eb"
+    },
+    "time": 1735295606287,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/GbxwnrKmrj"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "forget_password",
+      "uniqueId": "b5d12909-5a6e-41d4-9d7f-c417f867e1eb"
+    },
+    "time": 1735292399821,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/LfyMs5LreM"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "forget_password",
+      "uniqueId": "b5d12909-5a6e-41d4-9d7f-c417f867e1eb"
+    },
+    "time": 1735114981740,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/69zPFenaLL"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "forget_password",
+      "uniqueId": "b5d12909-5a6e-41d4-9d7f-c417f867e1eb"
+    },
+    "time": 1735051334388,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/cWPVgkvCPj"
+    }
+  }
+]

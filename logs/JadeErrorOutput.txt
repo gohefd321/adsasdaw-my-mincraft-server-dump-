@@ -1,0 +1,27 @@
+Dec 24, 2024, 2:38:30 PM
+INSTANCE
+java.lang.NullPointerException: Cannot invoke "net.minecraft.core.Direction.m_122434_()" because "side" is null
+	at TRANSFORMER/create_dd@0.1b.Release-Early-Dev/uwu.lopyluna.create_dd.content.blocks.kinetics.hydraulic_press.HydraulicPressBlockEntity.getCapability(HydraulicPressBlockEntity.java:105)
+	at TRANSFORMER/forge@47.3.12/net.minecraftforge.common.capabilities.ICapabilityProvider.getCapability(ICapabilityProvider.java:33)
+	at TRANSFORMER/jade@11.12.2+forge/snownee.jade.util.CommonProxy.wrapFluidStorage(CommonProxy.java:371)
+	at TRANSFORMER/jade@11.12.2+forge/snownee.jade.addon.universal.FluidStorageProvider.getGroups(FluidStorageProvider.java:118)
+	at TRANSFORMER/jade@11.12.2+forge/snownee.jade.addon.universal.FluidStorageProvider.putData(FluidStorageProvider.java:82)
+	at TRANSFORMER/jade@11.12.2+forge/snownee.jade.addon.universal.FluidStorageProvider.appendServerData(FluidStorageProvider.java:98)
+	at TRANSFORMER/jade@11.12.2+forge/snownee.jade.addon.universal.FluidStorageProvider.appendServerData(FluidStorageProvider.java:34)
+	at TRANSFORMER/jade@11.12.2+forge/snownee.jade.impl.BlockAccessorImpl.lambda$handleRequest$0(BlockAccessorImpl.java:74)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18693_(BlockableEventLoop.java:67)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:770)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:161)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:753)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:747)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:732)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665)
+	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
